@@ -1,0 +1,1 @@
+console.log('New task 2 the first commit.');
